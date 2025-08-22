@@ -1,0 +1,35 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build and Run C++",
+			"type": "shell",
+			"command": "g++",
+			"args": [
+				"-Wall",
+				"-Wextra",
+				"-g3",
+				"Main.cpp",
+				"Retangulo.cpp",
+				"-o",
+				"output\\Main.exe"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"isBackground": false,
+			"problemMatcher": [
+				"$gcc"
+			]
+		},
+		{
+			"label": "Run C++",
+			"type": "shell",
+			"command": "${workspaceFolder}\\output\\Main.exe",
+			"group": "test",
+			"dependsOn": "Build and Run C++",
+			"isBackground": false
+		}
+	]
+}
