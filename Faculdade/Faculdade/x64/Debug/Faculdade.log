@@ -1,8 +1,0 @@
-﻿  Calculadora.cpp
-C:\Users\rafae\Documents\ALG.PROG.OB.2025-2\Faculdade\Faculdade\Calculadora.cpp(51,15): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
-C:\Users\rafae\Documents\ALG.PROG.OB.2025-2\Faculdade\Faculdade\Calculadora.cpp(55,15): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
-  Empresa.cpp
-  FuncionarioCaixa.cpp
-  Main.cpp
-  Gerando Código...
-  Faculdade.vcxproj -> C:\Users\rafae\Documents\ALG.PROG.OB.2025-2\Faculdade\x64\Debug\Faculdade.exe
