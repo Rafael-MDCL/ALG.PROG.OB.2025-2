@@ -130,7 +130,9 @@
   <ItemGroup>
     <ClInclude Include="Atleta.h" />
     <ClInclude Include="Competicao.h" />
+    <ClInclude Include="Corredor.h" />
     <ClInclude Include="Data.h" />
+    <ClInclude Include="Nadador.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

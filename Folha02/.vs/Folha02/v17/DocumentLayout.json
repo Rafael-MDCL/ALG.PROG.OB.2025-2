@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Corredor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Corredor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Atleta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Nadador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Nadador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Competicao.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Competicao.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Atleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627F4A51-881E-4BD2-943B-273F4D191E58}|Folha02\\Folha02.vcxproj|solutionrelative:Folha02\\Atleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +38,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Atleta.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.h",
+              "RelativeDocumentMoniker": "Folha02\\Atleta.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.h",
+              "RelativeToolTip": "Folha02\\Atleta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T17:41:41.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Corredor.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Corredor.h",
+              "RelativeDocumentMoniker": "Folha02\\Corredor.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Corredor.h",
+              "RelativeToolTip": "Folha02\\Corredor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T18:59:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nadador.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Nadador.h",
+              "RelativeDocumentMoniker": "Folha02\\Nadador.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Nadador.h",
+              "RelativeToolTip": "Folha02\\Nadador.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T18:19:53.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Competicao.h",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Competicao.h",
               "RelativeDocumentMoniker": "Folha02\\Competicao.h",
               "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Competicao.h",
               "RelativeToolTip": "Folha02\\Competicao.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-05T18:11:11.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Data.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Data.h",
+              "RelativeDocumentMoniker": "Folha02\\Data.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Data.h",
+              "RelativeToolTip": "Folha02\\Data.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T17:28:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Atleta.cpp",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.cpp",
               "RelativeDocumentMoniker": "Folha02\\Atleta.cpp",
               "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Atleta.cpp",
               "RelativeToolTip": "Folha02\\Atleta.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-05T18:10:50.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Data.cpp",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\Folha02\\Folha02\\Data.cpp",
               "RelativeDocumentMoniker": "Folha02\\Data.cpp",

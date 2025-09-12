@@ -8,7 +8,6 @@ class Atleta
 protected:
 	string nome;
 	int idade;
-	
 
 public:
 	Atleta(string nome, int idade);
@@ -19,9 +18,7 @@ public:
 	string getNome() const;
 	int getIdade() const;
 
-
-
-	void imprime_info();
+	virtual void imprime_info();
 
 };
 
