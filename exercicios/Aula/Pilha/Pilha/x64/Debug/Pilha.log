@@ -1,0 +1,6 @@
+﻿  LavaLoucas.cpp
+C:\Users\rafae\Documents\ALG.PROG.OB.2025-2\exercicios\Aula\Pilha\Pilha\LavaLoucas.cpp(8,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  PilhaDePratos.cpp
+  Simulador.cpp
+  Gerando Código...
+  Pilha.vcxproj -> C:\Users\rafae\Documents\ALG.PROG.OB.2025-2\exercicios\Aula\Pilha\x64\Debug\Pilha.exe

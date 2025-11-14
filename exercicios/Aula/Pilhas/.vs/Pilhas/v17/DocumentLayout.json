@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pilhas\\PilhaDePratos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59193950-C2C8-4E0B-AC99-8C94932FBA7A}|Pilhas\\Pilhas.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59193950-C2C8-4E0B-AC99-8C94932FBA7A}|Pilhas\\Pilhas.vcxproj|solutionrelative:Pilhas\\PilhaDePratos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59193950-C2C8-4E0B-AC99-8C94932FBA7A}|Pilhas\\Pilhas.vcxproj|C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\Pilhas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59193950-C2C8-4E0B-AC99-8C94932FBA7A}|Pilhas\\Pilhas.vcxproj|solutionrelative:Pilhas\\Pilhas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PilhaDePratos.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.cpp",
+              "RelativeDocumentMoniker": "Pilhas\\PilhaDePratos.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.cpp*",
+              "RelativeToolTip": "Pilhas\\PilhaDePratos.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T23:22:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PilhaDePratos.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.h",
+              "RelativeDocumentMoniker": "Pilhas\\PilhaDePratos.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\PilhaDePratos.h*",
+              "RelativeToolTip": "Pilhas\\PilhaDePratos.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-13T20:58:33.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pilhas.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\Pilhas.cpp",
+              "RelativeDocumentMoniker": "Pilhas\\Pilhas.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\ALG.PROG.OB.2025-2\\exercicios\\Aula\\Pilhas\\Pilhas\\Pilhas.cpp",
+              "RelativeToolTip": "Pilhas\\Pilhas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T20:55:33.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
