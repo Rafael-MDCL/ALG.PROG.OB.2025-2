@@ -1,0 +1,13 @@
+﻿  ComputingProcess.cpp
+  FilaDeProcessos.cpp
+C:\Users\rafae\Documents\TrabalhoGrauB\TrabalhoGrauB\FilaDeProcessos.cpp(121,6): warning C4101: 'variavelTipo': variável local não referenciada
+  Node.cpp
+  PrintingProcess.cpp
+C:\Users\rafae\Documents\TrabalhoGrauB\TrabalhoGrauB\PrintingProcess.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  Processo.cpp
+  ReadingProcess.cpp
+  Sistema.cpp
+  TrabalhoGrauB.cpp
+  WritingProcess.cpp
+  Gerando Código...
+  TrabalhoGrauB.vcxproj -> C:\Users\rafae\Documents\TrabalhoGrauB\x64\Debug\TrabalhoGrauB.exe
