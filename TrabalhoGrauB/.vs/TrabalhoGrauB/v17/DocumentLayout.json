@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\PrintingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\PrintingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Sistema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\ReadingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\TrabalhoGrauB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\TrabalhoGrauB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\WritingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\FilaDeProcessos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\ComputingProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Processo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Sistema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\ReadingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\FilaDeProcessos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\WritingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\ComputingProcess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD782BD-12B4-4C24-83E0-6292BD5A8858}|TrabalhoGrauB\\TrabalhoGrauB.vcxproj|solutionrelative:TrabalhoGrauB\\Processo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrabalhoGrauB.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\TrabalhoGrauB.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\TrabalhoGrauB.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\TrabalhoGrauB.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\TrabalhoGrauB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:40:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadingProcess.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\ReadingProcess.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\ReadingProcess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:40:20.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintingProcess.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\PrintingProcess.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\PrintingProcess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:40:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilaDeProcessos.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\FilaDeProcessos.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\FilaDeProcessos.cpp",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:40:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Node.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\Node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:39:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WritingProcess.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\WritingProcess.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\WritingProcess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:39:42.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Processo.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Processo.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\Processo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:39:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sistema.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Sistema.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\Sistema.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwG4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:39:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComputingProcess.cpp",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.cpp",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\ComputingProcess.cpp",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.cpp",
+              "RelativeToolTip": "TrabalhoGrauB\\ComputingProcess.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:39:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WritingProcess.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\WritingProcess.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\WritingProcess.h",
+              "RelativeToolTip": "TrabalhoGrauB\\WritingProcess.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sistema.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Sistema.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Sistema.h",
+              "RelativeToolTip": "TrabalhoGrauB\\Sistema.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadingProcess.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\ReadingProcess.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ReadingProcess.h",
+              "RelativeToolTip": "TrabalhoGrauB\\ReadingProcess.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintingProcess.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\PrintingProcess.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\PrintingProcess.h",
+              "RelativeToolTip": "TrabalhoGrauB\\PrintingProcess.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Processo.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Processo.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Processo.h",
+              "RelativeToolTip": "TrabalhoGrauB\\Processo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\Node.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\Node.h",
+              "RelativeToolTip": "TrabalhoGrauB\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilaDeProcessos.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\FilaDeProcessos.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\FilaDeProcessos.h",
+              "RelativeToolTip": "TrabalhoGrauB\\FilaDeProcessos.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComputingProcess.h",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.h",
+              "RelativeDocumentMoniker": "TrabalhoGrauB\\ComputingProcess.h",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\TrabalhoGrauB\\TrabalhoGrauB\\ComputingProcess.h",
+              "RelativeToolTip": "TrabalhoGrauB\\ComputingProcess.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T00:16:49.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
